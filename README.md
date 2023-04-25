@@ -2,7 +2,7 @@
 
 ## Goal
 
-Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controler. To reach this goal, you have to excute the diffrent step of the plan described bellow using the tools provided in the toolbox section. You have to determine which tool should be used in
+Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controler. To reach this goal, you have to excute the diffrent step described bellow. To help you unlock some steps, a list of tools have been provided in the toolbox section, however you have to find the right tool that should be used in each step. 
 
 ## Provided Environment 
 
@@ -11,22 +11,20 @@ There are 3 VMs: lab-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windo
 
 ## Hacking Steps
 
-1- Connect to lab-vm using RDP (The Public IP address and credentials will be provided by the coach)
+1- Connect to lab-vm using RDP (The Public IP address and credentials will be provided by the coach).
 
-2- Discover the private IP address of workstation-vm using one tool in the toolbox
+2- Discover the private IP address of workstation-vm using one tool in the toolbox.
 
-3- Find the credentials (login and password) that allow you to connect to workstation-vm using RDP
+3- Find the credentials (login and password) that allow you to connect to workstation-vm using RDP.
 
-4- Connect to Workstation-vm using RDP
+4- Connect to Workstation-vm using RDP.
 
-5- Discover the IP address of the domain controller using one tool in the toolbox  
+5- Discover the IP address of the domain controller using one tool in the toolbox.  
 
-6- Find the login and the password hash of the Admin Domain using one tool in the toolbox
-
-7- Connect to the domain controller using RDP 
+6- Find the login and the password hash of the Admin Domain then connect to the domain controller using RDP. Use one tool in the toolbox.
 
 
->**Note**: every tool is used one time 
+  >**Note**: Each tool is used one time  
 
 ## Toolbox
 1- Mimikatz 
