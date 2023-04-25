@@ -13,7 +13,7 @@ There are 3 VMs: lab-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windo
 
 1- Connect to lab-vm using RDP (The Public IP address and credentials will be provided by the coach)
 
-2- Discover the private IP address of workstation-vm using a tool that you have in the toolbox
+2- Discover the private IP address of workstation-vm using one tool in the toolbox
 
 3- Find the credentials (login and password) that allow you to connect to workstation-vm using RDP
 
@@ -26,7 +26,7 @@ There are 3 VMs: lab-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windo
 7- Connect to the domain controller using RDP 
 
 
-Note every tool is used one time 
+>**Note**: every tool is used one time 
 
 ## Toolbox
 1- Mimikatz 
