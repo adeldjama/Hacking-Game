@@ -8,7 +8,7 @@ Your Mission, Should You Choose To Accept It, is to take control of the Contoso 
 
 There are 3 VMs: hack-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windows Server 2016) 
 
-![archi](./images/archi.jpg)
+![archi](./images/archi.png)
 ## Hacking Steps
 
 1- Connect to the hack-vm using RDP. Your coach will provide you with the Public IP address and credentials.
