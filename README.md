@@ -6,7 +6,7 @@ Your Mission, Should You Choose To Accept It, is to take control of the Contoso 
 
 ## Environment 
 
-There are 3 VMs: hack-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windows Server 2016) 
+There are 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Windows Server 2016) 
 
 
 ![archi](./images/archi.png)
