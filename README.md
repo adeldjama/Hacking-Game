@@ -8,7 +8,9 @@ Your Mission, Should You Choose To Accept It, is to take control of the Contoso 
 
 There are 3 VMs: hack-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windows Server 2016) 
 
+
 ![archi](./images/archi.png)
+
 ## Hacking Steps
 
 1. Connect to the Hack-vm using RDP. Your coach will provide you with the Public IP address and credentials.
@@ -38,6 +40,6 @@ There are 3 VMs: hack-vm (Windows10), workstation-vm (Windows10) and dc-vm (Wind
 3. Hydra 
     - https://github.com/maaaaz/thc-hydra-windows
     - https://securitytutorials.co.uk/brute-forcing-passwords-with-thc-hydra/
-    - https://github.com/adeldjama/Hacking-Game/blob/b3d41fc73a9daface2a8ae1d90f7175e5890be0b/username.txt
-    - https://github.com/adeldjama/Hacking-Game/blob/ea7262ec5cd3b8a07c9e1df77d5e4f627f39d940/password.txt
+    - https://github.com/adeldjama/Hacking-Game/blob/37fa336979bbdabf53f53ce07d7832900f47b2c4/resources/username.txt
+    - https://github.com/adeldjama/Hacking-Game/blob/37fa336979bbdabf53f53ce07d7832900f47b2c4/resources/password.txt
 
