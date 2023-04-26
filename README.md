@@ -4,11 +4,11 @@
 
 Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controller. To achieve this, follow the steps below. We've provided three tools in the toolbox section to help you unlock some of the steps. However, you'll need to identify the appropriate tool to use for each step. 
 
-## Provided Environment 
+## Environment 
 
 There are 3 VMs: hack-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windows Server 2016) 
 
-
+![archi](./images/archi.jpg)
 ## Hacking Steps
 
 1- Connect to the hack-vm using RDP. Your coach will provide you with the Public IP address and credentials.
