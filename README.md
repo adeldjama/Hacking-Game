@@ -2,29 +2,29 @@
 
 ## Goal
 
-Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controler. To reach this goal, you have to excute the diffrent step described bellow. To help you unlock some steps, 3 tools are provided in the toolbox section, however you have to find the right tool that should be used in each step. 
+Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controller. To achieve this, follow the steps below. We've provided three tools in the toolbox section to help you unlock some of the steps. However, you'll need to identify the appropriate tool to use for each step. 
 
 ## Provided Environment 
 
-There are 3 VMs: lab-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windows Server 2016) 
+There are 3 VMs: hack-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windows Server 2016) 
 
 
 ## Hacking Steps
 
-1- Connect to lab-vm using RDP (The Public IP address and credentials will be provided by the coach).
+1- Connect to the hack-vm using RDP. Your coach will provide you with the Public IP address and credentials.
 
-2- Discover the private IP address of workstation-vm using one tool in the toolbox.
+2- Use a tool from the toolbox to discover the private IP address of the workstation-vm.
 
-3- Find the credentials (login and password) that allow you to connect to workstation-vm using RDP.
+3- Use a tool from the toolbox to find the login and password that will allow you to connect to the workstation-vm using RDP.
 
-4- Connect to Workstation-vm using RDP.
+4- Connect to the workstation-vm using RDP and the login and password found in step 3.
 
-5- Discover the IP address of the domain controller using one tool in the toolbox.  
+5- Discover the IP address of the domain controller.  
 
-6- Find the login and the password hash of the Admin Domain then connect to the domain controller using RDP. Use one tool in the toolbox.
+6- Use a tool from the toolbox, (a) to find the login and password hash of the Domain Admin then (b) to connect to the domain controller using RDP.
 
 
-  >**Note**: Each tool is used one time  
+  >**Note**: Each tool should be used one time  
 
 ## Toolbox
 1- Mimikatz 
