@@ -38,4 +38,5 @@ There are 3 VMs: lab-vm (Windows10), workstation-vm (Windows10) and dc-vm (Windo
 3- Hydra 
 - https://github.com/maaaaz/thc-hydra-windows
 - https://securitytutorials.co.uk/brute-forcing-passwords-with-thc-hydra/
+- password.txt
 
