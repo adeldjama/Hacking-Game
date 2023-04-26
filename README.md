@@ -2,7 +2,7 @@
 
 ## Goal
 
-Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controler. To reach this goal, you have to excute the diffrent step described bellow. To help you unlock some steps, a list of tools have been provided in the toolbox section, however you have to find the right tool that should be used in each step. 
+Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controler. To reach this goal, you have to excute the diffrent step described bellow. To help you unlock some steps, 3 tools are provided in the toolbox section, however you have to find the right tool that should be used in each step. 
 
 ## Provided Environment 
 
