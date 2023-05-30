@@ -2,7 +2,8 @@
 
 ## Goal
 
-Your Mission, Should You Choose To Accept It, is to take control of the Contoso domain controller. To achieve this, follow the steps below. We have provided three tools in the toolbox section to help you unlock some of the steps. However, you'll need to identify the appropriate tool to use for each step. 
+In this challenge, we invite you to step into the role of a hacker. Your first objective will be to access to a corporate network by infiltrating a user's machine. Once you have gained access to this machine, your ultimate goal will be to gain control over the company's domain.
+Are you ready? 
 
 ## Environment 
 
