@@ -3,6 +3,7 @@
 ## Goal
 
 In this challenge, we invite you to step into the role of a hacker. Your first objective will be to access to a corporate network by infiltrating a user's machine. Once you have gained access to this machine, your ultimate goal will be to gain control over the company's domain.
+
 Are you ready? 
 
 ## Environment 
